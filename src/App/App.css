@@ -1,3 +1,17 @@
+/* General
+
+.containerPrincipal{
+  display: inline-block
+}
+.containerOne{
+  width: 50vw;
+  border: black 3px solid;
+}
+.containerTwo{
+  width: 50vw;
+  border: black 3px solid;
+} */
+/* App */
 .App {
   text-align: center;
 }
